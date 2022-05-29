@@ -10,3 +10,4 @@ The purpose of the assignment was to analyze voting data for an election commisi
 
 
 ## Election Audit Summary
+The current dataset could be modified to give a vote count and percentage of votes for each candidate in each county. In this way the election commision will know if Diane Degette won across all counties. Another modification could be highlighting quality assurance. Since the data set offers Ballot ID a code could be writte to ensure unique ballot ids are only counted once.
